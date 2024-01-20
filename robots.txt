@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sure-shape-843931.framer.app/sitemap.xml
